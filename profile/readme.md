@@ -6,8 +6,8 @@ Revolutionizing Connectivity through Decentralization - XNET empowers individual
 [![X](https://img.shields.io/badge/X-@xnet_fdn-1DA1F2?logo=x)](https://x.com/xnet_fdn)
 [![Dune Analytics](https://img.shields.io/badge/Dune%20Analytics-XNET%20Token-FF5733?logo=dune)](https://dune.com/steve314600/xnet)
 [![Solscan](https://img.shields.io/badge/Solscan-XNET%20Token-9b59b6)](https://solscan.io/token/xNETbUB7cRb3AAu2pNG2pUwQcJ2BHcktfvSB8x1Pq6L)
-[![CoinGecko](https://img.shields.io/badge/CoinGecko-XNET%20Mobile-00dc93?logo=coingecko)](https://www.coingecko.com/en/coins/xnet-mobile-2)
-[![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-XNET%20Mobile-f7931a?logo=coinmarketcap)](https://coinmarketcap.com/currencies/xnet-mobile/)
+[![CoinGecko](https://img.shields.io/badge/CoinGecko-XNET%20Token-00dc93?logo=coingecko)](https://www.coingecko.com/en/coins/xnet-mobile-2)
+[![CoinMarketCap](https://img.shields.io/badge/CoinMarketCap-XNET%20Token-f7931a?logo=coinmarketcap)](https://coinmarketcap.com/currencies/xnet-mobile/)
 
 ## About Us
 
