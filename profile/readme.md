@@ -11,11 +11,11 @@ Non-profit foundation accelerating community-driven, decentralized mobile connec
 
 ## About Us
 
-At XNET Foundation, we are committed to decentralizing connectivity by leveraging blockchain technology to provide mobile and internet services. Our mission is to create an open, transparent, and secure decentralized network that offers mobile connectivity and internet services to users worldwide, enabling a future of seamless, borderless communication.
+At XNET Foundation, we are committed to decentralizing connectivity by leveraging blockchain technology to provide connectivity for everyone. Our mission is to create an open, transparent, and secure decentralized network that enables a future of seamless and borderless communications.
 
 ### Our Technologies
 
-#### Decentralized Mobile Network
+#### Neutral Host Mobile Network
 
 - **Blockchain-Powered Connectivity:** XNET leverages blockchain to provide secure, decentralized mobile services. Users create coverage that others use, fostering a self-sustaining network.
 - **Token Rewards:** Users are rewarded with XNET tokens for creating and maintaining coverage areas that provide connectivity to others. This incentivizes network expansion and ensures decentralized growth.
@@ -25,7 +25,7 @@ At XNET Foundation, we are committed to decentralizing connectivity by leveragin
 
 - **XNET Token:** The XNET token serves as the backbone of our decentralized services, rewarding users for contributing coverage to the network and supporting its operations.
 - **Governance and Participation:** Token holders can participate in network governance, allowing them to influence decisions and shape the future of XNET's decentralized ecosystem.
-- **Solana Integration:** Built on the Solana blockchain, the XNET token benefits from high-speed transactions and scalability, supporting global connectivity efforts.
+- **Solana Integration:** Built on the Solana blockchain, the XNET token benefits from high-speed transactions and scalability and supports global connectivity efforts.
 
 #### Real-World Applications
 
