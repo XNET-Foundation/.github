@@ -1,6 +1,6 @@
 # XNET Foundation
 
-Revolutionizing Connectivity through Decentralization - XNET empowers individuals and businesses with decentralized mobile and internet services.
+Non-profit foundation accelerating community-driven, decentralized mobile connectivity, empowering carriers to provide widespread and reliable wireless services.
 
 [![Website](https://img.shields.io/badge/Website-XNET%20Foundation-blue)](https://xnet.foundation)
 [![X](https://img.shields.io/badge/X-@xnet_fdn-1DA1F2?logo=x)](https://x.com/xnet_fdn)
